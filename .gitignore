@@ -21,11 +21,12 @@ build
 npm-debug.log*
 .pnpm-debug.log*
 
-# local env files
+# env files
 .env.local
 .env.development.local
 .env.test.local
 .env.production.local
+.env
 
 # turbo
 .turbo
